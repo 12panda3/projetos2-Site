@@ -1,0 +1,89 @@
+body {
+    font-family: Arial, sans-serif;
+    color: #333;
+    margin: 0 auto;
+    padding: 0;
+    background-color: #fff;
+}
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+
+}
+.logo {
+    background-color: #242323;
+}
+
+main {
+    padding: 0px;
+    text-align: center;
+    width: 100%;
+}
+.topicos {
+    background-color: #f4f4f4;
+    padding: 10px;
+    text-align: center;
+}
+.topicos a {
+    margin: 5 10px;
+    text-decoration: none;
+    color: #333;
+}
+.topicos a:hover {
+    color: #000;
+}
+.topicos ul li {
+    display: inline-block;
+    margin-left: 10px;
+    margin-top: 2px;
+}
+.topicos ul li a:hover {
+    border-bottom: 1px solid #333;
+
+}
+div {
+    margin-bottom: 0px;
+}
+
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    bottom: 0;
+    width: 100%;
+}
+.men {
+    text-align: center;
+}
+.women {
+    text-align: center;
+}
+.party {
+    text-align: center;
+}
+.institucional {
+    text-align: center;
+}
+.talk {
+    text-align: center;
+   
+}
+h2{
+    border-bottom: 0 solid #333;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+.zap {
+    position: fixed; bottom: 10px; right: 10px;
+   
+}
+.valores {
+    text-align: justify;
+}
+.perfil {
+        max-width: 100%;
+}
