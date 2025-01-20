@@ -6,8 +6,8 @@ Alunos:
 - Alisson Vinicius Ferreira Gonçalves - PD321
 - Filipe Rodrigues Alvarenga - PD185
 - Valter Rodrigues de Oliveira - PD515
--
+- João Victor Gontijo - PDBD041
 -
 
-Itabira - MG
+Itabira/Bom Despacho - MG
 Projeto Desenvolve
