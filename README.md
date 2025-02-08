@@ -1,13 +1,8 @@
-# projetos2-Site
-Site feito para a matéria de Projetos 2 do curso Projeto Desenvolve.
+# React + Vite
 
-Alunos:
-- Carlos Henrico de Oliveira Maciel - PD124
-- Alisson Vinicius Ferreira Gonçalves - PD321
-- Filipe Rodrigues Alvarenga - PD185
-- Valter Rodrigues de Oliveira - PD515
-- João Victor Gontijo - PDBD041
--
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Itabira/Bom Despacho - MG
-Projeto Desenvolve
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
